@@ -505,7 +505,7 @@ transform: translate(-40%, -53%);
 .tool-cols-icon{
 	width:142px;
 	height:108px;
-	float:left;
+	float:center;
 }
 .tool-cols-h{
 	width:142px;

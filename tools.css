@@ -515,7 +515,7 @@ transform: translate(-40%, -53%);
 	color:#5e5e5e;
 	text-align:center;
 	line-height:40px;
-	float:left;
+	float:center;
 }
 .tool-cols ul li:hover .tool-cols-h{
 	width:142px;
@@ -526,7 +526,7 @@ transform: translate(-40%, -53%);
 	text-align:center;
 	line-height:40px;
 	transition:all 0.5s ease-in-out 0s;
-	float:left;
+	float:center;
 }
 .tool-cols-h-b{
 	width:142px;
@@ -536,7 +536,7 @@ transform: translate(-40%, -53%);
 	color:#5e5e5e;
 	text-align:center;
 	line-height:20px;
-	float:left;
+	float:center;
 }
 .tool-cols ul li:hover .tool-cols-h-b{
 	width:142px;
@@ -547,7 +547,7 @@ transform: translate(-40%, -53%);
 	text-align:center;
 	line-height:20px;
 	transition:all 0.5s ease-in-out 0s;
-	float:left;
+	float:center;
 }
 .divider{
 	width:742px;

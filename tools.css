@@ -234,7 +234,7 @@ body{
 	overflow:hidden;
 	text-decoration:none;
 	padding:0px 12px;
-	float:left;
+	float:center;
 }
 .tools a:hover{
 	border-bottom:#d12c0c 2px solid;

@@ -222,7 +222,7 @@ body{
 .tools{
 	width:auto;
 	height:auto;
-	float:left;
+	float:center;
 }
 .tools a{
 	width:auto;
